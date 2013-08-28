@@ -28,9 +28,9 @@
 				</header>
 					<section> this is the section
 					</section>
-						<aside This is the aside
+						<aside> This is the aside
 						</aside>
-				footer This is the footer The end
+				<footer> This is the footer The end
 				</footer>
 			</div>
 </html>
